@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-<p>Hi there. Welcome to my page✨</p>
+<p>Hi there. Welcome to my page ✨</p>
 
 <!--
 **michelleyoon-sy/michelleyoon-sy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
