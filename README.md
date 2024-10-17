@@ -2,8 +2,6 @@
 
 <p>Hi there. Welcome to my page ✨</p>
 
-<p><a herf="mailto:michelleyoon.sy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=michelleyoon.sy@gmail.com"/></a>
-</p>
 
 <!--
 **michelleyoon-sy/michelleyoon-sy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
