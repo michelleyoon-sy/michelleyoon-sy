@@ -1,6 +1,6 @@
-### Hello world 👋
+### Hello world 🤍
 
-<p>Hi there. Welcome to my page ✨</p>
+<p>Hi there. Welcome to my page .ᐟ</p>
 
 
 <!--
